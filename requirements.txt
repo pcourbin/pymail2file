@@ -1,0 +1,2 @@
+imap-tools==1.5.0
+PyDrive2==1.19.0
