@@ -1,4 +1,4 @@
-# pymailtofile
+# pymail2file
 
 This is a Python package that allows you to save email attachments to a file, on specific folder according to rules/filters.
 
